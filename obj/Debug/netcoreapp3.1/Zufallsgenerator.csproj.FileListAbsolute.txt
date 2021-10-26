@@ -1,0 +1,13 @@
+C:\TFS\Zufallsgenerator\Zufallsgenerator\obj\Debug\netcoreapp3.1\Zufallsgenerator.csprojAssemblyReference.cache
+C:\TFS\Zufallsgenerator\Zufallsgenerator\obj\Debug\netcoreapp3.1\Zufallsgenerator.AssemblyInfoInputs.cache
+C:\TFS\Zufallsgenerator\Zufallsgenerator\obj\Debug\netcoreapp3.1\Zufallsgenerator.AssemblyInfo.cs
+C:\TFS\Zufallsgenerator\Zufallsgenerator\obj\Debug\netcoreapp3.1\Zufallsgenerator.csproj.CoreCompileInputs.cache
+C:\TFS\Zufallsgenerator\Zufallsgenerator\bin\Debug\netcoreapp3.1\Zufallsgenerator.exe
+C:\TFS\Zufallsgenerator\Zufallsgenerator\bin\Debug\netcoreapp3.1\Zufallsgenerator.deps.json
+C:\TFS\Zufallsgenerator\Zufallsgenerator\bin\Debug\netcoreapp3.1\Zufallsgenerator.runtimeconfig.json
+C:\TFS\Zufallsgenerator\Zufallsgenerator\bin\Debug\netcoreapp3.1\Zufallsgenerator.runtimeconfig.dev.json
+C:\TFS\Zufallsgenerator\Zufallsgenerator\bin\Debug\netcoreapp3.1\Zufallsgenerator.dll
+C:\TFS\Zufallsgenerator\Zufallsgenerator\bin\Debug\netcoreapp3.1\Zufallsgenerator.pdb
+C:\TFS\Zufallsgenerator\Zufallsgenerator\obj\Debug\netcoreapp3.1\Zufallsgenerator.dll
+C:\TFS\Zufallsgenerator\Zufallsgenerator\obj\Debug\netcoreapp3.1\Zufallsgenerator.pdb
+C:\TFS\Zufallsgenerator\Zufallsgenerator\obj\Debug\netcoreapp3.1\Zufallsgenerator.genruntimeconfig.cache
